@@ -5,3 +5,5 @@
 4. Frases Breaking Bad -> https://nostalgic-johnson-168c46.netlify.app/
 5. Clima -> https://hungry-heisenberg-ae2f70.netlify.app/
 6. Criptomonedas -> https://unruffled-bassi-228345.netlify.app/
+6. Noticias -> https://zen-mayer-7fdc28.netlify.app
+6. Buscador de imagenes -> https://blissful-swirles-4cde53.netlify.app
